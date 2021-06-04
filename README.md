@@ -106,6 +106,9 @@ You will get following ROUGE scores.
 
 ## From Scratch
 
+### Dialogue Discourse Parser
+Please refer to **DialogueDiscourseParser** dir.
+
 ### For AMI
 #### Preprocess
 (1) Preprocess AMI dataset.
