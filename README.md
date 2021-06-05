@@ -6,6 +6,9 @@ This is the **pytorch** code for our **IJCAI 2021** paper **Dialogue Discourse-A
   <img src="pic/1.png" width="400">
 </p>
 
+## Outputs
+Output summaries are available at [AMI](https://github.com/xcfcode/DDAMS/blob/main/summaries/ami_summary.txt) and [ICSI](https://github.com/xcfcode/DDAMS/blob/main/summaries/icsi_summary.txt).
+
 ## Requirements
 * We use Conda python 3.7 and strongly recommend that you create a new environment: `conda create -n ddams python=3.7`.
 * Run the following command: `pip install -r requirements.txt`. 
