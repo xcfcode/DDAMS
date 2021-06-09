@@ -6,6 +6,11 @@ This is the **pytorch** code for our **IJCAI 2021** paper **Dialogue Discourse-A
   <img src="pic/1.png" width="400">
 </p>
 
+## Update
+
+* **2021.6.9** update pretrained models for AMI and ICSI. [here](https://drive.google.com/drive/folders/1m7RxAU5GxPxri1i9fTZbDH-H4AMb2xp_?usp=sharing), under the `qg_pretrain` dir;
+* **2021.6.5** update [Dialogue Discourse Parser](https://github.com/xcfcode/DDAMS/tree/main/DialogueDiscourseParser);
+
 ## Outputs
 Output summaries are available at [AMI](https://github.com/xcfcode/DDAMS/blob/main/summaries/ami_summary.txt) and [ICSI](https://github.com/xcfcode/DDAMS/blob/main/summaries/icsi_summary.txt).
 
