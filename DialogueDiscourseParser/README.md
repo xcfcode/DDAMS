@@ -60,4 +60,10 @@ Simply run `python main.py --is_train`, **we only modify the vocab_size to 2,500
     * Run `python run_test.py`
 * You can get results from target dir.
 
+## For your own data
+1. You can first copy `train.json` and `test.json` under the AMI directory to your own data directory without any modification, results in `yourdata/train.json` and `yourdata/test.json` since these two files are only for code running rather than discourse parsing.
+1. Then, for your meetings, each meeting is converted into a JSON file, namely, `meetingX.json` under the `yourdata` directory.
+1. Finally, you may have a data directory `yourdata` including `meeting1.json`, `meeting2.json`, ..., `train.json`, and `test.json`.
+1. Please note that `train.json`, and `test.json` are directly copied from AMI directory.
+
 
